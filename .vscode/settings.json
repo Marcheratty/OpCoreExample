@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tpp": "cpp",
+    "matrix.h": "c",
+    "stdio.h": "c"
+  }
+}

@@ -3,6 +3,8 @@ project(testOpCore LANGUAGES CXX)
 
 # Add OpCore as a subdirectory
 add_subdirectory(opcore)
+# Add embedded as subdirectory
+add_subdirectory(embedded)
 
 # Create the test executable
 add_executable(testApp src/main.cpp)
